@@ -10,8 +10,8 @@
   -  Would like to take a month or two off and really get my mind around Rust, to help compensate up for all those years of Java. ;)
 - 💞️ I’m not really looking to collaborate on anything at the moment-- still getting my feet wet.  But hopefully soon. :) 
 - 📫 How to reach me:
-  - @beardandbag@hachyderm.io
-  - @beardandbag:matrix.org
+  - <a rel="me" href="https://hachyderm.io/@Beardandbag">Mastodon</a>
+  - <a href="https://matrix.to/#/@beardandbag:matrix.org">Matrix</a>
 
 <!---
 beardandbag/beardandbag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
